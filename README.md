@@ -3,7 +3,7 @@ hi ❤️
 I'm 😮‍💨 Better ❤️
 
 TO Be Better!!
-Strive to become a better front-end Engineer
+Strive to become a better front-end Engineer, java or javascript
 
 myblog: [Better Blog](https://better-pz.github.io/)
 
